@@ -1,4 +1,14 @@
-html {background-image: url(../images/bgimage.jpg);}
+html {
+    background-color:#ceffcf;
+}
+
+.backgnd {
+    position:absolute;
+    height:100%;
+    bottom:0px;
+    right:5%;
+    z-index:-1;
+}
 
 a {
     text-decoration: none;
